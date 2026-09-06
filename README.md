@@ -40,7 +40,7 @@ PROGRAM Program for 4 Bit Ripple Counter and verify its truth table in quartus u
 
 **PROGRAM**
 
-/* Program for 4 Bit Ripple Counter and verify its truth table in quartus using Verilog programming.
+Program for 4 Bit Ripple Counter and verify its truth table in quartus using Verilog programming.
 ```
 module exp6(q, clk, reset);
 
@@ -87,7 +87,7 @@ end
 endmodule
 ```
  Developed by: Saranya R RegisterNumber: 212225040384
-*/
+
 
 **RTL LOGIC FOR 4 Bit Ripple Counter**
 <img width="1901" height="1006" alt="image" src="https://github.com/user-attachments/assets/e6c12cf2-2db3-4d41-b8fb-69fb7ad544c0" />
