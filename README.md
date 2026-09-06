@@ -93,7 +93,8 @@ endmodule
 <img width="1901" height="1006" alt="image" src="https://github.com/user-attachments/assets/e6c12cf2-2db3-4d41-b8fb-69fb7ad544c0" />
 
 **TIMING DIGRAMS FOR 4 Bit Ripple Counter**
-<img width="1917" height="1022" alt="Screenshot 2026-09-06 135329" src="https://github.com/user-attachments/assets/fb130113-3f93-4f48-8d58-49f3bd37864e" />
+<img width="1901" height="975" alt="image" src="https://github.com/user-attachments/assets/a1f49f7d-f7bf-4533-b83c-ef350c871b5a" />
+
 
 **RESULTS**
 The functional simulation verified that the 4-bit ripple counter works correctly.Counting Sequence: With every clock pulse, the output increments sequentially in binary from 0000 (0) to 1111 (15).Rollover: After reaching 1111, the counter automatically resets and rolls over back to 0000 on the next clock pulse.
